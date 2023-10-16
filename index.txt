@@ -1,2 +1,2 @@
-hello welcome!
-Hi Jose
+git status ==> will show all the modified/newly added file/changes
+git diff   ==> show the differences
